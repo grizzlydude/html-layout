@@ -75,12 +75,13 @@ table {
 }
 
 .bluecircle {
-    border-radius: 50% 50%;
-    background-color: lightblue;
+    border-radius: 50%;
+    background-color: skyblue;
     height: 260px;
     width: 260px;
     margin: 10px auto;
     float: left;
+    position: center;
 }
 
 .box2 {
@@ -92,11 +93,12 @@ table {
 }
 
 .tanrectangle {
-    background-color: lightgoldenrodyellow;
-    height: 100px;
-    width: 200px;
-    margin: 0 auto;
+    background-color: lemonchiffon;
+    height: 70%;
+    width: 92%;
+    margin: 35px auto;
     float: left;
+    box-shadow: 10px 10px grey;
 }
 
 .box3 {
@@ -108,6 +110,12 @@ table {
 
 }
 
-.Hello {
+h1 {
+    width: 100%;
+    text-align:center;
+    color: darkblue;
+    letter-spacing: 10px;
+    font-size: 50px;
+    margin: 50px auto;
 
 }
